@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <Adarsh Chauhan> -- <twitter>
+    Adarsh Chauhan
+    adarshchauhan@gmail.com
+    Devops Manager
 
 # THANKS
 
-    <name>
+    Adarsh Chauhan
 
 # TECHNOLOGY COLOPHON
 
