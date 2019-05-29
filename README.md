@@ -10,4 +10,4 @@ This is the famous and Best.
 ## GIT Comparisons
 Adding GIT Comparison Lecture
 
-%%% COMPARISON BW WD & LOCAL REPO
+******** COMPARE WORK vs LOCAL REPO ************
