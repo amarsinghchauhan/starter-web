@@ -18,3 +18,5 @@ Adding GIT Comparison Lecture
 
 ******* mnnnnnnnnnnnnnnnnnnnnnnn
 uuuw8ehihwhdbnouhoqwiohiouqiohiouh
+
+^^^^^^ modified at remote ^^^^^^^^^^^
