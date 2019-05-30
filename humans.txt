@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <Adarsh Chauhan> -- <twitter>
+    Adarsh Chauhan
+    adarshchauhan@gmail.com
+    Devops Manager
 
 # THANKS
 
-    <name>
+    Adarsh Chauhan
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+  devops engineering 
