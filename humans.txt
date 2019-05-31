@@ -21,6 +21,12 @@ today is thursday and masters day
 
 ***** modified humans.txt at local***********
 
+<<<<<<< Updated upstream
 &&&&&&& REBASE REMOTE-1 &&&&&
 
 ***** STASH ADV 3105 ********
+=======
+&&&&&& REBASE REMOTE-1 &&&&&
+
+&&&&&&& STASH ADV-1 &&&&&
+>>>>>>> Stashed changes
